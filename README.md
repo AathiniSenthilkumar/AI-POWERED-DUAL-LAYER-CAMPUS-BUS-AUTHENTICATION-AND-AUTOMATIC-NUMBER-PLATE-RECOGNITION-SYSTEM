@@ -1,0 +1,2 @@
+# AI-POWERED-DUAL-LAYER-CAMPUS-BUS-AUTHENTICATION-AND-AUTOMATIC-NUMBER-PLATE-RECOGNITION-SYSTEM
+An AI-powered campus bus authentication system that combines Automatic Number Plate Recognition (ANPR) and institutional branding verification. YOLOv8 detects vehicles and plates, while PaddleOCR extracts registration numbers. The system verifies plate details with an authorized database and branding to ensure secure and automated campus entry.
